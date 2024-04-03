@@ -22,7 +22,7 @@ my_dict['list'].pop(1)
 # Для того, что хранится под ключом ‘dict’:
 # добавьте элемент с ключом ('i am a tuple',) и любым значением
 
-my_dict['dict']['i am a tuple'] = 'did not like tuple'
+my_dict['dict'][('i am a tuple',)] = 'did not like tuple'
 
 # удалите какой-нибудь элемент
 

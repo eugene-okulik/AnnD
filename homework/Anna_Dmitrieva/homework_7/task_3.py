@@ -20,4 +20,4 @@ def end_result(some_of_result):
 print(end_result("результат операции: 42"))
 print(end_result("результат операции: 54"))
 print(end_result("результат работы программы: 209"))
-print(end_result("результат операции: 2"))
+print(end_result("результат: 2"))
